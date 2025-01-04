@@ -6,7 +6,7 @@
 </p>
 
 
-<img src="https://telegra.ph/file/7d08ef891cbe7d31e682b.jpg" width="540" height="280" />
+<img src="https://i.ibb.co/71LjRHW/90db821ce8cefcb1.jpg" width="540" height="280" />
 </p>         ⚔ THARINDU⚔
 
 ### Setup
