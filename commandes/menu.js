@@ -42,7 +42,7 @@ const date = moment().format('DD/MM/YYYY');
 │♨ *Platform* : ${os.platform()}
 │♨ *Developer* : 𝐓𝐇𝐀𝐑𝐈𝐍𝐃𝐔
 │♨ *owner by* : +94716152295
-╰─────✧The-GOAT✧─────◆ \n\n`;
+╰─────✧𝐌𝐀𝐅𝐈-𝐌𝐃-𝐁𝐎𝐓✧─────◆ \n\n`;
 
   let menuMsg=`  
 
@@ -51,7 +51,7 @@ const date = moment().format('DD/MM/YYYY');
 `;
 
     for (const cat in coms) {
-        menuMsg += `*╭────☢️* *${cat}* *☢️⊷*`;
+        menuMsg += `*╭────💗* *${cat}* *💗⊷*`;
         for (const cmd of coms[cat]) {
             menuMsg += `
  *|💗✨* ${cmd}`;
@@ -62,7 +62,7 @@ const date = moment().format('DD/MM/YYYY');
 
     menuMsg += `
 ◇            ◇
-*————— ★ —————*
+*————— 💗 —————*
 
   *𝐌𝐀𝐅𝐈_𝐌𝐃_𝐁𝐎𝐓*                                         
 *╰═════════════⊷*
@@ -72,7 +72,7 @@ const date = moment().format('DD/MM/YYYY');
 
    if (lien.match(/\.(mp4|gif)$/i)) {
     try {
-        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Zokou-MD*, développé par Djalega++" , gifPlayback : true }, { quoted: ms });
+        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *MAFI_MD_BOT*, développé par Djalega++" , gifPlayback : true }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
@@ -82,7 +82,7 @@ const date = moment().format('DD/MM/YYYY');
 // Vérification pour .jpeg ou .png
 else if (lien.match(/\.(jpeg|png|jpg)$/i)) {
     try {
-        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "*📌Dexter*" }, { quoted: ms });
+        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "*MAFI_MD_BOT*" }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
