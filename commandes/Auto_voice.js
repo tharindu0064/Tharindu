@@ -3,7 +3,7 @@
  Licensed under the  GPL-3.0 License;
  You may not use this file except in compliance with the License.
  It is supplied in the hope that it may be useful.
- * @project_name : DEXTER-MD
+ * @project_name : MAFI-MD
  * @author : YASIYA-OFC <https://github.com/yasiyaofc1>
  * @description : FORZEN-MD,A Multi-functional whatsapp bot.
  * @version 1.0.0
