@@ -12,13 +12,13 @@
 ### Setup
 
 **📌DEPLOY ON HEROKU**
-   - ***Click [`FORK`](https://github.com/Purnageethanajana/DEXTER-V1-MD/fork) and `Star ⭐ Repository` for Courage.***
+   - ***Click [`FORK`](https://github.com/tharindu0064/Tharindu/fork) and `Star ⭐ Repository` for Courage.***
    - You will get a session ID in WhatsApp, copy the ID only.
    - **If you don't have an account on [Heroku](https://signup.heroku.com/), [create an account now](https://signup.heroku.com/).**p
 </p>
 🌟 MAFI TAIGER WEB 🌟
 
-<a href="https://new-repo-hazel-three.vercel.app/"><img src="https://img.shields.io/badge/DEXTER-WEB%20SITE-red" alt="DEXTER WEB SITE" width="250"></a>
+<a href="https://new-repo-hazel-three.vercel.app/"><img src="https://img.shields.io/badge/DEXTER-WEB%20SITE-red" alt="MAFI TAIGER WEB SITE" width="250"></a>
 
 **`MAFI 𝗠𝗗 𝗕𝗢𝗧`**
 
@@ -31,7 +31,7 @@
 <a href="https://qr-dexter-md-b3cdc18409e4.herokuapp.com/"><img src="https://img.shields.io/badge/LOGIN%20WITH-QR%20CODE-red" alt="LOGIN WITH PAIR CODE" width="250"></a>
 ## DEPLOY IN HEROKU
 
- [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https:https://https://github.com/tharindu0064/Tharindu/)
+ [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=//https://github.com/tharindu0064/Tharindu/)
 
    </details>
 </P>
@@ -48,10 +48,11 @@ Contributions to Dexter-Md are welcome! If you have ideas for new features, impr
 
 ## License
 
+
 The MAFI MD is released.
 
 Enjoy the diverse features of the MAFI-MD  to enhance your conversations and make your WhatsApp experience more interesting!
 
 ## Developer:
-- [**WhatsApp**](https://wa.me/94716152295)
+- [**WhatsApp**](https://wa.me/94716152295?text=HI_MAFY_MD_OWNER)
 
