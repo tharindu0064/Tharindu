@@ -18,7 +18,7 @@
 </p>
 🌟 MAFI TAIGER WEB 🌟
 
-<a href="https://new-repo-hazel-three.vercel.app/"><img src="https://img.shields.io/badge/DEXTER-WEB%20SITE-red" alt="MAFI TAIGER WEB SITE" width="250"></a>
+<a href="https://new-repo-hazel-three.vercel.app/"><img src="https://img.shields.io/badge/DEXTER-WEB%20SITE-red" alt="MAFI_WEB SITE" width="250"></a>
 
 **`MAFI 𝗠𝗗 𝗕𝗢𝗧`**
 
@@ -28,10 +28,10 @@
 
 ## QR CODE SCAN
 
-<a href="https://qr-dexter-md-b3cdc18409e4.herokuapp.com/"><img src="https://img.shields.io/badge/LOGIN%20WITH-QR%20CODE-red" alt="LOGIN WITH PAIR CODE" width="250"></a>
+<a href="https://qr-mafi-md-b3cdc18409e4.herokuapp.com/"><img src="https://img.shields.io/badge/LOGIN%20WITH-QR%20CODE-red" alt="LOGIN WITH PAIR CODE" width="250"></a>
 ## DEPLOY IN HEROKU
 
- [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=//https://github.com/tharindu0064/Tharindu/)
+ [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/tharindu0064/Tharindu/)
 
    </details>
 </P>
