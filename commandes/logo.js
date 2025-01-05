@@ -14,7 +14,7 @@ zokou({ nomCom: "hacker",
        // let res = Object.values(anu)[3];
         // console.log("&€"+res);
       //  let lien = "https://e1.yotools.net" + res;
-        repondre("*⚡ *ʟᴏᴀᴅɪɴɢ ᴅᴇxᴛᴇʀ-ᴍᴅ* 🥵...*");
+        repondre("*⚡ *MAFI_MD_BOT* 🥵...*");
         await zk.sendMessage(origineMessage, { image: { url:anu.image}, caption: "\t *Logo by MAFI_MD_BOT*" }, { quoted: ms });
     }
     catch (e) {
@@ -101,7 +101,7 @@ zokou({ nomCom: "didong", categorie: "Logo", reaction: "📱" }, async (dest, zk
         var maker =await mumaker.ephoto(lien,arg.join(' '));
     
         
-     repondre('*⚡ *ʟᴏᴀᴅɪɴɢ ᴅᴇxᴛᴇʀ-ᴍᴅ* ⚡...*')
+     repondre('*⚡ *MAFI_MD_BOTP5X7ZALS* ⚡...*')
        await zk.sendMessage(dest, { image: { url: maker.image}, caption: titre });
     }
     catch (e) {
@@ -241,7 +241,7 @@ var lien="https://en.ephoto360.com/boom-text-comic-style-text-effect-675.html";
        // let lien = "https://e1.yotools.net" + res;
          
 
-repondre("  ⚡ *ʟᴏᴀᴅɪɴɢ ᴅᴇxᴛᴇʀ-ᴍᴅ* ⚡ ...")
+repondre("  ⚡ *MAFI_MD_BOT* ⚡ ...")
          await zk.sendMessage(dest,{image:{url:img.image},caption:"\t *Logo by MAFI_MD_BOT*"})
          
         // await zk.sendMessage(dest,{image:{url:lienImage},caption:"\t *Logo by Dexter-Md*"})
@@ -265,7 +265,7 @@ var {ms,repondre,arg,prefixe}=commandeOptions;
   try{
     var lien ="https://en.ephoto360.com/create-water-effect-text-online-295.html";
     var img =await mumaker.ephoto(lien,arg);
-    repondre(" ⚡ *ʟᴏᴀᴅɪɴɢ ᴅᴇxᴛᴇʀ-ᴍᴅ* ⚡ ...")
+    repondre(" ⚡ *MAFI_MD_BOT* ⚡ ...")
     await zk.sendMessage(dest,{image:{url:img.image},caption:"  *Logo by MAFI_MD_BOT*"})
   }catch(e){repondre(`🥵🥵 ${e}`)}
 
@@ -437,7 +437,7 @@ zokou({nomCom:"purple",categorie:"Logo",reaction:"🧳"},async(dest,zk,commandeO
     repondre(prefixe+"purple Dexter");return;}
       const lien="https://en.ephoto360.com/purple-text-effect-online-100.html"
       var img = await mumaker.ephoto(lien,arg);
-      repondre(" ⚡ *ʟᴏᴀᴅɪɴɢ ᴅᴇxᴛᴇʀ-ᴍᴅ* ⚡ ...")
+      repondre(" ⚡ *MAFI_MD_BOT* ⚡ ...")
       await zk.sendMessage(dest,{image:{url:img.image},caption:"*Logo by MAFI_MD_BOT*"});
     }catch(e){repondre(e)}
   
@@ -456,7 +456,7 @@ zokou({nomCom:"gold",categorie:"Logo",reaction:"🧚🏿‍♀️"},async(dest,z
     var lien="https://en.ephoto360.com/modern-gold-4-213.html";
 
     var img = await mumaker.ephoto(lien,arg);
-   repondre("⚡ *ʟᴏᴀᴅɪɴɢ ᴅᴇxᴛᴇʀ-ᴍᴅ* ⚡ ...")
+   repondre("⚡ *MAFI_MD_BOT* ⚡ ...")
     await zk.sendMessage(dest,{image:{url:img.image},caption:" *Logo by MAFI_MD_BOT*"},{quoted:ms})
   }catch(e){repondre(e)}
 })
@@ -469,13 +469,13 @@ zokou({nomCom:"arena",categorie:"Logo",reaction:"🥵"},async(dest,zk,commandeOp
   try{
       if(!arg||arg=="")
       {
-        repondre(prefixe+"arena DEXTER-MD");return;
+        repondre(prefixe+"arena MAFI_MD_BOT");return;
       }
 
     var lien="https://en.ephoto360.com/create-cover-arena-of-valor-by-mastering-360.html";
 
     var img = await mumaker.ephoto(lien,arg.join(' '));
-   repondre("⚡ *ʟᴏᴀᴅɪɴɢ ᴅᴇxᴛᴇʀ-ᴍᴅ* ⚡ ...")
+   repondre("⚡ *MAFI_MD_BOT* ⚡ ...")
     await zk.sendMessage(dest,{image:{url:img.image},caption:" *Logo by MAFI_MD_BOT*"},{quoted:ms})
   }catch(e){repondre(e)}
 })
@@ -487,13 +487,13 @@ zokou({nomCom:"incandescent",categorie:"Logo",reaction:"😋"},async(dest,zk,com
   try{
       if(!arg||arg=="")
       {
-        repondre(prefixe+"incandescent DEXTER-MD");return;
+        repondre(prefixe+"incandescent MAFI_MD_BOT");return;
       }
 
     var lien="https://en.ephoto360.com/text-effects-incandescent-bulbs-219.html";
 
     var img = await mumaker.ephoto(lien,arg.join(' '));
-   repondre("⚡ *ʟᴏᴀᴅɪɴɢ ᴅᴇxᴛᴇʀ-ᴍᴅ* ⚡ ...")
+   repondre("⚡ *MAFI_MD_BOT* ⚡ ...")
     await zk.sendMessage(dest,{image:{url:img.image},caption:" *Logo by MAFI_MD_BOT*"},{quoted:ms})
   }catch(e){repondre(e)}
 })
@@ -506,13 +506,13 @@ zokou({nomCom:"child",categorie:"Logo",reaction:"😇"},async(dest,zk,commandeOp
   try{
       if(!arg||arg=="")
       {
-        repondre(prefixe+"child DEXTER-MD");return;
+        repondre(prefixe+"child MAFI_MD_BOT");return;
       }
 
     var lien="https://en.ephoto360.com/write-text-on-wet-glass-online-589.html";
 
     var img = await mumaker.ephoto(lien,arg.join(' '));
-   repondre("⚡ *ʟᴏᴀᴅɪɴɢ ᴅᴇxᴛᴇʀ-ᴍᴅ* ⚡ ...")
+   repondre("⚡ *MAFI_MD_BOT* ⚡ ...")
     await zk.sendMessage(dest,{image:{url:img.image},caption:" *Logo by MAFI_MD_BOT*"},{quoted:ms})
   }catch(e){repondre(e)}
 })
@@ -525,13 +525,13 @@ zokou({nomCom:"typo",categorie:"Logo",reaction:"😇"},async(dest,zk,commandeOpt
   try{
       if(!arg||arg=="")
       {
-        repondre(prefixe+"typo DEXTER-MD");return;
+        repondre(prefixe+"typo MAFI_MD_BOT");return;
       }
 
     var lien="https://en.ephoto360.com/typography-text-effect-on-pavement-online-774.html";
 
     var img = await mumaker.ephoto(lien,arg.join(' '));
-   repondre("⚡ *ʟᴏᴀᴅɪɴɢ ᴅᴇxᴛᴇʀ-ᴍᴅ* ⚡ ...")
+   repondre("⚡ *MAFI_MD_BOT* ⚡ ...")
     await zk.sendMessage(dest,{image:{url:img.image},caption:" *Logo by MAFI_MD_BOT*"},{quoted:ms})
   }catch(e){repondre(e)}
 })
@@ -543,13 +543,13 @@ zokou({nomCom:"light",categorie:"Logo",reaction:"🌠"},async(dest,zk,commandeOp
   try{
       if(!arg||arg=="")
       {
-        repondre(prefixe+"light DEXTER-MD");return;
+        repondre(prefixe+"light MAFI_MD_BOT");return;
       }
 
     var lien="https://en.ephoto360.com/light-text-effect-futuristic-technology-style-648.html";
 
     var img = await mumaker.ephoto(lien,arg.join(' '));
-   repondre("⚡ *ʟᴏᴀᴅɪɴɢ ᴅᴇxᴛᴇʀ-ᴍᴅ* ⚡ ...")
+   repondre("⚡ *MAFI_MD_BOT* ⚡ ...")
     await zk.sendMessage(dest,{image:{url:img.image},caption:" *Logo by MAFI_MD_BOT*"},{quoted:ms})
   }catch(e){repondre(e)}
 })
@@ -561,13 +561,13 @@ zokou({nomCom:"steel",categorie:"Logo",reaction:"🌠"},async(dest,zk,commandeOp
   try{
       if(!arg||arg=="")
       {
-        repondre(prefixe+"steel DEXTER-MD");return;
+        repondre(prefixe+"steel MAFI_MD_BOT");return;
       }
 
     var lien="https://en.ephoto360.com/dragon-steel-text-effect-online-347.html";
 
     var img = await mumaker.ephoto(lien,arg.join(' '));
-   repondre("⚡ *ʟᴏᴀᴅɪɴɢ ᴅᴇxᴛᴇʀ-ᴍᴅ* ⚡ ...")
+   repondre("⚡ *MAFI_MD_BOT* ⚡ ...")
     await zk.sendMessage(dest,{image:{url:img.image},caption:" *Logo by MAFI_MD_BOT*"},{quoted:ms})
   }catch(e){repondre(e)}
 })
@@ -580,13 +580,13 @@ zokou({nomCom:"sunlight",categorie:"Logo",reaction:"🌠"},async(dest,zk,command
   try{
       if(!arg||arg=="")
       {
-        repondre(prefixe+"sunlight Dexter-MD");return;
+        repondre(prefixe+"sunlight MAFI_MD_BOT");return;
       }
 
     var lien="https://en.ephoto360.com/sunlight-shadow-text-204.html";
 
     var img = await mumaker.ephoto(lien,arg.join(' '));
-   repondre("⚡ *ʟᴏᴀᴅɪɴɢ ᴅᴇxᴛᴇʀ-ᴍᴅ* ⚡ ...")
+   repondre("⚡ *MAFI_MD_BOT* ⚡ ...")
     await zk.sendMessage(dest,{image:{url:img.image},caption:" *Logo by MAFI_MD_BOT*"},{quoted:ms})
   }catch(e){repondre(e)}
 })
