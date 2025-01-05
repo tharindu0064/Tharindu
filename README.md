@@ -18,7 +18,7 @@
 </p>
 🌟 MAFI TAIGER WEB 🌟
 
-<a href="https://new-repo-hazel-three.vercel.app/"><img src="https://img.shields.io/badge/DEXTER-WEB%20SITE-red" alt="MAFI_WEB SITE" width="250"></a>
+<a href="https://new-repo-hazel-three.vercel.app/"><img src="https://img.shields.io/badge/MAFI-WEB%20SITE-red" alt="MAFI_WEBSITE" width="250"></a>
 
 **`MAFI 𝗠𝗗 𝗕𝗢𝗧`**
 
