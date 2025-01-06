@@ -1,4 +1,4 @@
-const { zokou } = require('../framework/zokou');
+yconst { zokou } = require('../framework/zokou');
 const {addOrUpdateDataInAlive , getDataFromAlive} = require('../bdd/alive')
 const moment = require("moment-timezone");
 const s = require(__dirname + "/../set");
@@ -74,7 +74,7 @@ else {
         if(!superUser) { repondre("there is no alive for this bot") ; return};
 
       await   repondre("⚔ 𝐌𝐀𝐅𝐈 𝐌𝐃 𝐁𝐎𝐓");
-         repondre(" *🧸⃕⃞̶̏🎀̶ᴛ⃮⃐ʜ⃪⃮⃐ᴀ⃮⃐ʀɪ⃮⃐ɴᴅ⃮⃐ᴜ⎠⃝̐🧙‍♂️⃘⃞🪄*")
+         repondre(" *https://wa.me/+94704868636?text=MAFY_🙈👻*")
      }
  } else {
 
